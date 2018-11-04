@@ -1,0 +1,5 @@
+remote_report_server:
+  server_url: http://127.0.0.1:8000/assets/report
+  request_timeout: 30
+
+log_path: /logs/xx.log
